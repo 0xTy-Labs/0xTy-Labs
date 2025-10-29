@@ -112,11 +112,11 @@
 ---
 <br>
 
-**💡 3 Major Systems Architected**
-**📚 5 Distributed Networks Deployed**
-**🚀 2 Embedded Devices Launched**
-**👥 100k+ Nodes in Network**
-**⏱️ Fastest Kernel Patch: 1.2 Days**
+**3 Major Systems Architected** |  
+**5 Distributed Networks Deployed** |  
+**2 Embedded Devices Launched** |
+**100k+ Nodes in Network** | 
+**Fastest Kernel Patch: 1.2 Days**
 
 <br>
 
