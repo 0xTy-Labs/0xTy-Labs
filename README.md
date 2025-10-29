@@ -3,7 +3,7 @@
 <br>
 
 ---
-### **<font color="#FF00FF">CHAOS COMPILER</font> — <font color="#FFFF00">DISTRIBUTED SYSTEMS HIGH COUNSIL</font>**
+### **<font color="#FF00FF">CHAOS COMPILER</font> <br> <font color="#FFFF00">VULCAN SCIENCE DIRECTORATE </font>**
 ---
 <br>
 
@@ -42,10 +42,11 @@
 
 <br>
 
-**<font color="#FFFF00">⚙️ OPERATING PARAMETERS</font>**
- **Focus:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `High` 🚀
- **Tolerance:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Optimal`
- **Commitment:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Total`
+**<font color="#FFFF00">⚙️ OPERATING PARAMETERS</font>** <br>
+
+**Focus:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `High` 🚀
+**Tolerance:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Optimal`
+**Commitment:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Total`
 
 <br>
 
