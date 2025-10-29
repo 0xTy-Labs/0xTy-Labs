@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://i.imgur.com/PRTfgJp.png" alt="Banner" style="width:100%;">
+</div>
+
 <div align="center" style="background-color: #111111; color: #FFFFFF; font-family: 'Inter', sans-serif;">
 
 <br>
 
----
+
 ### **<font color="#FF00FF">CHAOS COMPILER</font> <br> <font color="#FFFF00">(VULCAN SCIENCE ACADEMY GRADUATE) </font>**
 ---
 <br>
