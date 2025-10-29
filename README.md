@@ -3,7 +3,7 @@
 <br>
 
 ---
-### **<font color="#FF00FF">CHAOS COMPILER</font> — <font color="#FFFF00">SYSTEM ANALYSIS</font>**
+### **<font color="#FF00FF">CHAOS COMPILER</font> — <font color="#FFFF00">DISTRIBUTED SYSTEMS HIGH COUNSIL</font>**
 ---
 <br>
 
@@ -45,9 +45,9 @@
 <br>
 
 **<font color="#FFFF00">⚙️ OPERATING PARAMETERS</font>**
-- **Focus:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `High` 🚀
-- **Tolerance:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Optimal`
-- **Commitment:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Total`
+ **Focus:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `High` 🚀
+ **Tolerance:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Optimal`
+ **Commitment:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Total`
 
 <br>
 
@@ -112,16 +112,16 @@
 ---
 <br>
 
-- **💡 3 Major Systems Architected**
-- **📚 5 Distributed Networks Deployed**
-- **🚀 2 Embedded Devices Launched**
-- **👥 100k+ Nodes in Network**
-- **⏱️ Fastest Kernel Patch: 1.2 Days**
+**💡 3 Major Systems Architected**
+**📚 5 Distributed Networks Deployed**
+**🚀 2 Embedded Devices Launched**
+**👥 100k+ Nodes in Network**
+**⏱️ Fastest Kernel Patch: 1.2 Days**
 
 <br>
 
 ---
-**<font color="#FFFF00">CUMULATIVE SCORE: 2,048 🏆</font>**
+**<font color="#FFFF00">🏆</font>**
 ---
 
 <br>
