@@ -3,7 +3,7 @@
 <br>
 
 ---
-### **<font color="#FF00FF">CHAOS COMPILER</font> <br> <font color="#FFFF00">VULCAN SCIENCE DIRECTORATE </font>**
+### **<font color="#FF00FF">CHAOS COMPILER</font> <br> <font color="#FFFF00">(VULCAN SCIENCE ACADEMY GRADUATE) </font>**
 ---
 <br>
 
