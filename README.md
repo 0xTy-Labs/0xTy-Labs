@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/PRTfgJp.png" alt="Banner" style="width:100%;">
+  <img src="src/profile.gif" alt="Banner" style="width:100%;">
 </div>
 
 <div align="center" style="background-color: #111111; color: #FFFFFF; font-family: 'Inter', sans-serif;">
