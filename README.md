@@ -18,7 +18,7 @@
   <a href="https://gitlab.com/0xTy-Labs" target="_blank"><img                                     
       src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"          
      alt="GitLab"></a>
-<a href="https://discord.com/users/tylerthecreator7830" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="[https://discord.com/users/0xtylabs](https://discord.com/users/0xtylabs)" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.topcoder.com/members/TYLER254" target="_blank"><img                       
      src="https://img.shields.io/badge/Topcoder-29A8DE?style=for-the-badge&logo=topcoder&logoColor=white"      
       alt="Topcoder"></a> 
