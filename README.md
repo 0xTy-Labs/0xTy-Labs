@@ -102,7 +102,7 @@
 
 | Category      | Components                               |
 | ------------- | ----------------------------------- |
-| **Languages** | `C`, `Rust`, `Bash`, `Assembly`, `Python` |
+| **Languages** | `C`, `Rust`, `Shell`, `Assembly`, `Python` |
 | **Domains**   | `p2p Networks`, `Embedded Systems`, `Digital Forensics` |
 | **Tools**     | `GDB`, `Wireshark`, `Valgrind`, `GCC` |
 | **Deployment**| `Docker`, `Ansible`, `Terraform`     |
